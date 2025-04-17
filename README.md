@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=30&duration=3000&pause=1000&color=46F732&center=true&multiline=true&width=550&height=180&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;My+name+is+Nguyen+Van+Bao+Duy+%F0%9F%A4%97;I+am+a+fullstack+software+developer+%F0%9F%92%BB;Nice+to+meet+you!+Hope+we+can+get+along.+%F0%9F%99%87%E2%80%8D%E2%99%82%EF%B8%8F"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=30&duration=2000&pause=1000&color=46F732&center=true&multiline=true&width=550&height=180&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;My+name+is+Nguyen+Van+Bao+Duy+%F0%9F%A4%97;I+am+a+fullstack+software+developer+%F0%9F%92%BB;Nice+to+meet+you!+Hope+we+can+get+along.+%F0%9F%99%87%E2%80%8D%E2%99%82%EF%B8%8F"/>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -40,3 +40,4 @@
 </div>
 
 ## <img src="https://github.com/GGevolt/GGevolt/blob/master/images/phone-book.gif" width="25"> <b>Contact me</b>
+<a href="www.linkedin.com/in/nguyen-van-bao-duy-916548270"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
