@@ -34,3 +34,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GGevolt&theme=material-palenight&count_private=true&hide=contribs"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGevolt&theme=material-palenight&hide=Jupyter&layout=compact"/> 
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GGevolt&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophy" />
+</div>
+
+## <img src="" width="25"> <b>Contact me</b>
