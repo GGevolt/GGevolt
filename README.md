@@ -29,7 +29,6 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-<div align="center">
-  <img height="210px" width="450px" src="https://github-readme-stats.vercel.app/api?username=GGevolt&theme=material-palenight&count_private=true&hide=contribs"/>
-  <img height="210px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGevolt&theme=material-palenight&hide=Jupyter&layout=compact"/> 
-</div>
+  
+  [![Duy's github stats](https://github-readme-stats.vercel.app/api?username=GGevolt&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGevolt&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
