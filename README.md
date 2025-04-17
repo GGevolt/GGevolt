@@ -40,4 +40,4 @@
 </div>
 
 ## <img src="https://github.com/GGevolt/GGevolt/blob/master/images/phone-book.gif" width="25"> <b>Contact me</b>
-<a href="www.linkedin.com/in/nguyen-van-bao-duy-916548270"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
+<a href="https://www.linkedin.com/in/nguyen-van-bao-duy-916548270" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
