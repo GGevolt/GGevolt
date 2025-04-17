@@ -39,4 +39,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GGevolt&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophy" />
 </div>
 
-## <img src="" width="25"> <b>Contact me</b>
+## <img src="https://github.com/GGevolt/GGevolt/blob/master/images/phone-book.gif" width="25"> <b>Contact me</b>
