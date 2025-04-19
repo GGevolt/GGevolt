@@ -1,8 +1,10 @@
+<img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snowflake.webp" alt="Snowflake" width="150" height="150" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/High%20Voltage.webp" alt="High Voltage" width="150" height="150" />
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=30&duration=2000&pause=1000&color=46F732&center=true&multiline=true&width=550&height=180&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;My+name+is+Nguyen+Van+Bao+Duy+%F0%9F%A4%97;I+am+a+fullstack+software+developer+%F0%9F%92%BB;Nice+to+meet+you!+Hope+we+can+get+along.+%F0%9F%99%87%E2%80%8D%E2%99%82%EF%B8%8F"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=30&duration=1000&pause=1000&color=46F732&center=true&multiline=true&width=500&height=160&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;My+name+is+Nguyen+Van+Bao+Duy+%F0%9F%A4%97;I+am+a+fullstack+developer+%F0%9F%92%BB;Nice+to+meet+you!+Hope+we+can+get+along.+%F0%9F%99%87%E2%80%8D%E2%99%82%EF%B8%8F"/>
 </div>
 
-## <img src="https://github.com/GGevolt/GGevolt/blob/master/images/information.gif" width="25"> <b>About me</b>
+## <img src="https://github.com/GGevolt/GGevolt/blob/master/images/information.gif" width="25"> <b>About me</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Vietnam.webp" alt="Flag Vietnam" width="25" height="25" />
 
 <p>I'm still a newbie to programming and still lacking in many aspects, but I am passionate about programming and aim to improve my skills.</p>
 
