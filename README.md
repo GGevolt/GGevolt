@@ -2,6 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=30&duration=2000&pause=1000&color=46F732&center=true&multiline=true&width=550&height=180&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;My+name+is+Nguyen+Van+Bao+Duy+%F0%9F%A4%97;I+am+a+fullstack+software+developer+%F0%9F%92%BB;Nice+to+meet+you!+Hope+we+can+get+along.+%F0%9F%99%87%E2%80%8D%E2%99%82%EF%B8%8F"/>
 </div>
 
+## <img src="https://github.com/GGevolt/GGevolt/blob/master/images/information.gif" width="25"> <b>About me</b>
+
+<p>I'm still a newbie to programming and still lacking in many aspects, but I am passionate about programming and aim to improve my skills.</p>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 <div align="left">
