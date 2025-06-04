@@ -6,7 +6,7 @@
 
 ## <img src="https://github.com/GGevolt/GGevolt/blob/master/images/information.gif" width="25"> <b>About me</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20Vietnam.webp" alt="Flag Vietnam" width="25" height="25" />
 
-I'm still a newbie to programming and still lacking in many aspects, but I am passionate about programming and aim to improve my skills. Let's achieve our goals together. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Soccer%20Ball.webp" alt="Soccer Ball" width="25" height="25" />
+I'm still a newbie to programming and still lacking in many aspects, but I am passionate about programming and aim to improve my skills. My goals are to improve my skills and learn new, amazing things regarding IT while having fun doing so. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Soccer%20Ball.webp" alt="Soccer Ball" width="25" height="25" />
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
